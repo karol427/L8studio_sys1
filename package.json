@@ -1,5 +1,6 @@
 {
   "name": "l8-studio-ems",
+  "homepage": "https://karol427.github.io/L8studio_sys1",
   "version": "1.0.0",
   "description": "Event Management System for L8 Studio",
   "dependencies": {
